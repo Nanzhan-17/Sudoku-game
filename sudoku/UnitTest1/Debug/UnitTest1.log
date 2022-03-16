@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+C:\Users\hp\source\repos\sudoku\UnitTest1\UnitTest1.cpp(1): warning C4603: “_CRT_SECURE_NO_WARNINGS”: 未定义宏或在预编译头使用后定义发生改变
+C:\Users\hp\source\repos\sudoku\UnitTest1\UnitTest1.cpp(1): message : 将宏添加到预编译头中，而不是在此处定义
+C:\Users\hp\source\repos\sudoku\UnitTest1\UnitTest1.cpp(2): message : 使用预编译头
+    正在创建库 C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.lib 和对象 C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.dll

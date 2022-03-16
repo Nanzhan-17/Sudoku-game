@@ -1,0 +1,27 @@
+[2022-02-07 21:30:18] [info] Start Program:
+Path:"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow\\vstest.console.exe"
+Arguments:C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.dll 
+Working directory: "C:\\Users\\hp\\source\\repos\\sudoku\\sudoku\\"
+Modules: Selected: C:\Users\hp\source\repos\sudoku\Debug\sudoku.exe C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.dll Excluded: 
+Sources: Selected: C:\Users\hp\source\repos\sudoku\sudoku C:\Users\hp\source\repos\sudoku\UnitTest1 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\hp\AppData\Local\Temp\45iykbpa.awv 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-02-07 21:30:19] [info] Module: C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.dll is selected because it matches selected pattern: C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.dll
+[2022-02-07 21:30:19] [info] Module: C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.dll is selected because it matches selected pattern: C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.dll
+[2022-02-07 21:30:20] [info] Module: C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.dll is selected because it matches selected pattern: C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.dll
+[2022-02-07 21:30:20] [info] Module: C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.dll is selected because it matches selected pattern: C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.dll
+[2022-02-07 21:30:20] [info] Module: C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.dll is selected because it matches selected pattern: C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.dll
+[2022-02-07 21:30:20] [info] Module: C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.dll is selected because it matches selected pattern: C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.dll
+[2022-02-07 21:30:20] [info] Module: C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.dll is selected because it matches selected pattern: C:\Users\hp\source\repos\sudoku\Debug\UnitTest1.dll
+[2022-02-07 21:30:20] [info] ----------------------------------------------------
+[2022-02-07 21:30:20] [info] Coverage binary generated in file: C:\Users\hp\AppData\Local\Temp\45iykbpa.awv
+[2022-02-07 21:30:20] [info] ----------------------------------------------------
